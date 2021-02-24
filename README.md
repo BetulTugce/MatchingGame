@@ -1,7 +1,7 @@
 # MatchingGame
 A memory matching game made with Windows Forms.
 
-This project has been developed in Visual Studio 2019 using the C# programming language.
+The game has been developed in Visual Studio 2019 using the C# programming language.
 
 https://user-images.githubusercontent.com/79140478/109044840-efeef200-76e3-11eb-8932-5eea639e2ddb.mp4
 
