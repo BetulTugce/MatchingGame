@@ -1,0 +1,10 @@
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csprojAssemblyReference.cache
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.frmMain.resources
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\Musa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
